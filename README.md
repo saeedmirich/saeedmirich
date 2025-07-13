@@ -1,16 +1,22 @@
-## Hi there 👋
+# سلام، من سعید هستم!
 
-<!--
-**saeedmirich/saeedmirich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+خوش آمدید به پروفایل من در گیت‌هاب :)  
+من مهندس صنایع و علاقه‌مند به تحلیل داده، یادگیری ماشین، هوش تجاری، برنامه‌نویسی پایتون و زمینه‌های دیگر مهندسی صنایع مثل زنجیره تامین هستم.
 
-Here are some ideas to get you started:
+## مهارت‌ها
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Excel  
+- Power BI & DAX
+- Data Analysis  
+- Machine Learning 
+- Data visualization
+## پروژه‌ها
+
+به زودی پروژه‌های خودم را اینجا بارگذاری می‌کنم.
+
+## تماس با من
+
+- ایمیل: sa33d.mirich@gmail.com    
+- گیت‌هاب: https://github.com/saeedmirich
+
